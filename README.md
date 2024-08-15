@@ -1,12 +1,4 @@
-<picture> <img align="right" src="README/december-19-hubble-deep-field.jpg" width = 250px></picture>
-
-<br>
-
-Hi there, this image is the Hubble Deep Field, taken at December 19th, 1995. captures several hundred galaxies that had never been seen before. Some galaxies are near and some are very far. Their various shapes and colors provide clues about the evolution of the universe.
-
-Taken over the course of 10 days,  results were astonishing! Almost 3000 galaxies varying in their stages of evolution were seen in the image.
-
-
+I am trying.
 
 <br><br>
 
